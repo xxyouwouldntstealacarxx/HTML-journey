@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en-GB">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>My test page</title>
+    <link href="styles/style.css" rel="stylesheet" />
+
+</head>
+
+<body>
+    <h1>i am worm</h1>
+    <h2>uwu</h2>
+    <img src="images/worm1.jpg" alt="A giant worm">
+<!-- i dont have to write the whole directory as 'images' is in the same folder as this 'index'-->
+
+
+    <p>please water me and i will:</p>
+
+    <ol>
+        <li>fertilise ur plants</li>
+        <li>bring vibes</li>
+        <li>reproduce and make more fertiliser!</li>
+    </ol>
+
+    <a href="https://tumbleweed.com.au/pages/worm-farming-information?srsltid=AfmBOooBuZILzfGui4f84W0f1vSjn6aRt1XJ6sstRDHUFueKLVTtf7kQ">
+        love me please
+    </a>
+
+</body>
+
+</html>
